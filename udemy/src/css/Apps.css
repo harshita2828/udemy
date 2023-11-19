@@ -1,0 +1,90 @@
+.sidebar{
+    width: 250px;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+}
+.sidebar .logo{
+    padding: 10px 5px;
+}
+.sidebar .logo img{
+    height: 60px;
+}
+
+.sidebar .nav{
+    padding:  30px 15px;
+}
+.sidebar .nav li a{
+    padding: 0%;
+    border-left: 2px red solid;
+    margin: 0%;
+}
+.sidebar .updated-course{
+margin-left: 30px;
+padding: 10px 0px 10px 20px;
+
+background-color: rgb(220, 217, 217);
+border-radius: 20px;
+}
+.sidebar .updated-course .ico{
+background-color: red;
+color: #fff;
+padding: 10px;
+border-radius: 22px;
+}
+.sidebar .updated-course .coursename{
+margin-left:30px ;
+padding-left: 30px;
+}
+.sidebar .updated-course .aurthor{
+
+}
+.sidebar .stats{
+padding-top: 40px;
+display: flex;
+padding-left: 30px;
+}
+.sidebar .stats .stats-box{
+padding-top: 10px;
+    padding-left: 20px;
+    flex-direction: column;
+    padding-right: 10px;
+}
+.sidebar .stats .stats-box .ico{
+    font-size: 22px;
+    margin-bottom: 10px;
+}
+.sidebar .stats .stats-box .val{
+    margin-top: -20px;
+    margin-left: -15px;
+    font-weight: 600;
+    color: black;
+}
+.sidebar .stats .stats-box .lbl{
+margin-top: -15px;
+}
+
+.sidebar .stats .stats-box .ico-points{
+    color: rgb(210, 104, 120);}
+.sidebar .stats .stats-box .ico-battery{
+    color: rgb(15, 105, 15);
+}
+.sidebar .me{
+    font-size: 20px;
+    margin-top: 40px;
+    margin-left: 25px;
+    padding: 10px 0px 10px 10px;
+    display: flex;
+border-radius: 20px;
+}
+.sidebar .me .lbl{
+border-radius: 30px;
+height: 50px;
+width: 50px;
+}
+.sidebar .me .name{
+    padding-left: 20px;
+margin-top: 2px;
+font-size: 17px;
+
+}

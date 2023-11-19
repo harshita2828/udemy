@@ -1,0 +1,55 @@
+body{
+    margin: 0px;
+    padding: 0%;
+    display: flex;
+}
+.fixed{
+    position: fixed;
+}
+.Apps flex{
+    display: flex;
+}
+.bl{
+    display: block;
+}
+ul{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+.noul{
+    text-decoration: none;
+}
+.c333{
+color: black;
+font-weight: 500;
+}
+
+.s15{
+    font-size: 15px;
+    display: inline-block;
+    padding-right: 10px;
+    padding-left: 15px;
+}
+.s24{
+    display: inline-block;
+    font-size: 18px;
+    
+}
+.aic{
+    align-items: center;
+}
+.jic{
+    justify-content: center;
+}
+.c777{
+    color: #777;
+    font-size: 18px;
+}
+h1,h3,h4,h5,h6{
+    font-weight: normal;
+}
+h2{
+    font-weight: normal;
+    /* margin-top: -20px; */
+}
