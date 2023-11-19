@@ -16,6 +16,8 @@ function Sidebar() {
                 <img src={logo} className='bl' />
             </a>
             <ul className='nav'>
+                <p>hey</p>
+                
                 <li className='com'> <li>
                     <a href='#' className='Link noul flex c333'>
                         <FaTag className='ico s15 icon-home flex' />
